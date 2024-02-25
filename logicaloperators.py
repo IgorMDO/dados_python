@@ -3,7 +3,7 @@
 # x > y > z  --> x==z
 x = input('Insira o primeiro valor: ')
 y = input('Insira o segundo valor: ')
-z = input('Insira o  terceiro valor: ')
+z = input('Insira o terceiro valor: ')
 
 #nome = input('Digite o seu nome: ')
 x, y, z = int(x), int(y), int(z)
